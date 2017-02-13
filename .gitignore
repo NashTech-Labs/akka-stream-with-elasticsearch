@@ -1,0 +1,14 @@
+build/
+target/*
+.idea
+.idea/*
+*.iml
+.classpath
+.project
+.scala_dependencies
+.target/
+logs/*
+.settings/
+*.jar
+project/target/*
+activator*
