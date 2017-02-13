@@ -12,3 +12,4 @@ logs/*
 *.jar
 project/target/*
 activator*
+twitterDetails*
